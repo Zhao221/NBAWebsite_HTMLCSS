@@ -1,0 +1,1183 @@
+.mod-video-all {
+    width: 1200px;
+    height: 568px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.mod-video-all1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1200px;
+    height: 284px;
+    /* background-color: #E11647; */
+    margin-left: 20px;
+}
+
+.mod-video-all1-a {
+    float: left;
+    width: 285px;
+    height: 203px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.mod-video-all1-a:hover .mod-video-all1-a-span1 img {
+    transform: scale(1.05, 1.05);
+    transition: all 0.3s linear;
+}
+
+.mod-video-all1-a-span1 {
+    width: 285px;
+    height: 203px;
+}
+
+.mod-video-all1-a:hover .mod-video-all1-a-span2 {
+    color: #2464B5;
+}
+
+.mod-video-all1-a-span1 img {
+    width: 285px;
+    height: 203px;
+}
+
+.mod-video-all1-a .i1 {
+    position: absolute;
+    left: 10px;
+    top: 155px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all1-a .i1 b {
+    margin-left: 20px;
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all1-a-span21 {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all1-a-span22 {
+    position: absolute;
+    top: 200px;
+    left: 325px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all1-a-span23 {
+    position: absolute;
+    top: 200px;
+    left: 625px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all1-a-span24 {
+    position: absolute;
+    top: 200px;
+    left: 925px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all1-a .i2 {
+    position: absolute;
+    left: 325px;
+    top: 155px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all1-a .i2 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all1-a .i3 {
+    position: absolute;
+    left: 625px;
+    top: 155px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all1-a .i3 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all1-a .i4 {
+    position: absolute;
+    left: 925px;
+    top: 155px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all1-a .i4 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all2 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1200px;
+    height: 284px;
+    margin-top: 20px;
+}
+
+.mod-video-all2-a {
+    float: left;
+    width: 285px;
+    height: 203px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.mod-video-all2-a:hover .mod-video-all2-a-span1 img {
+    transform: scale(1.05, 1.05);
+    transition: all 0.3s linear;
+}
+
+.mod-video-all2-a-span1 {
+    width: 285px;
+    height: 203px;
+}
+
+.mod-video-all2-a:hover .mod-video-all2-a-span2 {
+    color: #2464B5;
+}
+
+.mod-video-all2-a-span1 img {
+    width: 285px;
+    height: 203px;
+}
+
+.mod-video-all2-a .i12 {
+    position: absolute;
+    left: 5px;
+    top: 455px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all2-a .i12 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all2-a-span2 {
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all2-a .i22 {
+    position: absolute;
+    left: 305px;
+    top: 455px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all2-a .i22 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all2-a .i32 {
+    position: absolute;
+    left: 605px;
+    top: 455px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all2-a .i32 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all2-a .i42 {
+    position: absolute;
+    left: 905px;
+    top: 455px;
+    padding: 20px 13px 0 0;
+    width: 272px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    text-align: right;
+}
+
+.mod-video-all2-a .i42 b {
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image: url(./NBA官网图片/icon_16_video_white_c131c8.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-position: 10px 3px;
+}
+
+.mod-video-all2-a-span25 {
+    position: absolute;
+    top: 500px;
+    left: 5px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all2-a-span26 {
+    position: absolute;
+    top: 500px;
+    left: 305px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all2-a-span27 {
+    position: absolute;
+    top: 500px;
+    left: 605px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.mod-video-all2-a-span28 {
+    position: absolute;
+    top: 500px;
+    left: 905px;
+    width: 285px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.data {
+    width: 1200px;
+    height: 416px;
+}
+
+.list-leader {
+    width: 1140px;
+    height: 36px;
+    margin: 0 auto;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.data-King {
+    float: left;
+    width: 94px;
+    height: 36px;
+}
+
+.data-King-logo {
+    float: left;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background: url(./NBA官网图片/sheet_logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.data-King-name {
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    font-size: 20px;
+    display: inline-block;
+    color: #3464af;
+    font-weight: 900;
+    margin-top: 5px;
+}
+
+.data-classification {
+    float: left;
+    width: 182px;
+    height: 24px;
+}
+
+.data-classification-span1 {
+    float: left;
+    margin-left: 30px;
+    width: 89px;
+    height: 23px;
+    border-bottom: 3px solid red;
+    color: red;
+    margin-top: 10px;
+}
+
+.data-classification-span2 {
+    float: right;
+    width: 89px;
+    height: 23px;
+    margin-right: -30px;
+    margin-top: 10px;
+}
+
+.list-leader-end {
+    float: right;
+    right: 28px;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 5px;
+    color: #2464B5;
+}
+
+.data-King-one {
+    float: left;
+    width: 219px;
+    height: 360px;
+    margin-left: 18px;
+    margin-top: 20px;
+    border-right: 1px solid #eee;
+}
+
+.data-King-one-over {
+    width: 1200px;
+    height: 360px;
+}
+
+.data-King-one-title {
+    width: 208px;
+    height: 25px;
+    height: 25px;
+    line-height: 25px;
+    background: url(./NBA官网图片/leader_title.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 10px;
+    color: white;
+}
+
+.data-King-one-all {
+    width: 233px;
+    height: 217px;
+    margin-left: 10px;
+}
+
+.data-King-one-all-logo {
+    width: 218px;
+    height: 50px;
+}
+
+.data-King-one-all-logo img {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+}
+
+.data-King-one-player {
+    width: 203px;
+    height: 146px;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.data-King-one-player img {
+    float: left;
+    width: 91px;
+    height: 145px;
+}
+
+.data-King-one-player-info {
+    float: right;
+    width: 101px;
+    height: 103px;
+    margin-top: 10px;
+}
+
+.data-King-one-player-info1 {
+    width: 91px;
+    float: 50px;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.data-King-one-player-info-a1 {
+    float: left;
+    width: 91px;
+    height: 20px;
+    color: #2464B5;
+}
+
+.data-King-one-player-info-a1 a {
+    color: #2464B5;
+}
+
+.data-King-one-player-info-a2 a {
+    color: #2464B5;
+}
+
+.data-King-one-player-info-a1 a:hover {
+    text-decoration: underline;
+}
+
+.data-King-one-player-info-a2 a:hover {
+    text-decoration: underline;
+}
+
+.data-King-one-player-info-a2 {
+    float: left;
+    width: 91px;
+    height: 20px;
+    color: #2464B5;
+}
+
+.data-King-one-player-h5 {
+    font-size: 12.25px;
+    font-weight: 400;
+}
+
+.leaders-list {
+    width: 233px;
+    height: 118px;
+}
+
+.leaders-list1 {
+    float: left;
+    margin-top: 10px;
+    width: 203px;
+    height: 43px;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.leaders-list11 {
+    float: left;
+    width: 170px;
+    height: 33px;
+    margin-top: 5px;
+}
+
+.leaders-list111 {
+    float: left;
+    width: 35px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.leaders-list111 img {
+    width: 35px;
+    height: 25px;
+}
+
+.leaders-list112 {
+    float: left;
+    width: 104px;
+    height: 33px;
+}
+
+.leaders-list1121 {
+    float: left;
+    width: 99px;
+    height: 17px;
+    color: #356da0;
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 5px;
+}
+
+.leaders-list1122 {
+    float: left;
+    width: 99px;
+    height: 17px;
+    color: #000000;
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 5px;
+}
+
+.leaders-list12 {
+    float: right;
+    width: 34px;
+    height: 21px;
+    font-size: 15px;
+    margin-right: -5px;
+    margin-top: 5px;
+}
+
+.leaders-list2 {
+    float: left;
+    margin-top: 10px;
+    width: 203px;
+    height: 43px;
+}
+
+.leaders-list21 {
+    float: left;
+    width: 170px;
+    height: 33px;
+    margin-top: 5px;
+}
+
+.leaders-list211 {
+    float: left;
+    width: 35px;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.leaders-list211 img {
+    width: 35px;
+    height: 25px;
+}
+
+.leaders-list212 {
+    float: left;
+    width: 104px;
+    height: 33px;
+}
+
+.leaders-list2121 {
+    float: left;
+    width: 99px;
+    height: 17px;
+    color: #356da0;
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 5px;
+}
+
+.leaders-list2122 {
+    float: left;
+    width: 99px;
+    height: 17px;
+    color: #000000;
+    font-size: 12px;
+    line-height: 17px;
+    margin-left: 5px;
+}
+
+.leaders-list22 {
+    float: right;
+    width: 34px;
+    height: 21px;
+    font-size: 15px;
+    margin-right: -5px;
+    margin-top: 5px;
+}
+
+.special-topic {
+    width: 1200px;
+    height: 508px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.special-topic h2 {
+    width: 1200px;
+    height: 40px;
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.special-topic h2 img {
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.special-topic h2 span {
+    float: left;
+    width: 64px;
+    height: 30px;
+    margin-left: 15px;
+    color: #2464B5;
+    font-weight: 400;
+}
+
+.special-topic-ul {
+    width: 900px;
+    height: 450px;
+    float: left;
+}
+
+.special-topic ul {
+    width: 900px;
+    float: left;
+    height: 203px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.special-topic li {
+    float: left;
+    width: 286px;
+    height: 203px;
+}
+
+.special-topic li .img1 {
+    width: 286px;
+    height: 203px;
+}
+
+.special-topic li .img2 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 224px;
+}
+
+.special-topic li .img3 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 307px;
+    top: 224px;
+}
+
+.special-topic li .img4 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 614px;
+    top: 224px;
+}
+
+.special-topic li .img5 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 448px;
+}
+
+.special-topic li .img6 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 307px;
+    top: 448px;
+}
+
+.special-topic li .img7 {
+    width: 286px;
+    height: 40px;
+    position: absolute;
+    left: 614px;
+    top: 448px;
+}
+
+.survey-container {
+    float: right;
+    width: 285px;
+    height: 316px;
+    margin-top: 20px;
+}
+
+.survey-container h3 {
+    width: 285px;
+    height: 44px;
+    background-color: #2464B5;
+}
+
+.survey-container h3 a {
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 40px;
+    height: 21px;
+    color: white;
+    font-weight: 300;
+}
+
+.questionnaire {
+    width: 285px;
+    height: 276px;
+    position: relative;
+}
+
+.questionnaire form {
+    float: left;
+    width: 255px;
+    height: 87px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.questionnaire form em {
+    font-style: normal;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.questionnaire-ul {
+    width: 255px;
+    height: 66px;
+}
+
+.questionnaire-ul li {
+    margin-top: -10px;
+}
+
+.questionnaire-ul .fl {
+    width: 48px;
+    height: 14px;
+    font-size: 16px;
+}
+
+.questionnaire-ul input {
+    margin-right: 6px;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+}
+
+.questionnaire-p2 {
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    bottom: 0;
+    left: 15px;
+}
+
+.sub-btn {
+    float: left;
+    background: #2464b5;
+    color: #fff;
+    margin-right: 10px;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.look-btn {
+    float: right;
+    background: #e5e5e5;
+    color: #000;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.questionnaire-a {
+    float: left;
+    width: 285px;
+    height: 100px;
+    margin-top: 7px;
+}
+
+.questionnaire-a {
+    width: 285px;
+    height: 100px;
+}
+
+.social-media-list {
+    width: 1200px;
+    height: 100px;
+    position: relative;
+}
+
+.social-media-list ul {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 1200px;
+    height: 104px;
+}
+
+.social-media-list li {
+    float: left;
+    width: 138px;
+    height: 100px;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+    /* text-align: center;
+	line-height: 80px; */
+    margin-top: 10px;
+    margin-left: 10px;
+    z-index: 2;
+}
+
+.social-media-list-a {
+    width: 136px;
+    height: 100px;
+}
+
+.social-media-list-div {
+    width: 138px;
+    height: 100px;
+    background-color: white;
+}
+
+.social-media-list-div img {
+    width: 44px;
+    height: 44px;
+    margin-top: 20px;
+    margin-left: 10px;
+    z-index: 2;
+}
+
+.social-media-list-div-span1 {
+    float: right;
+    width: 70px;
+    height: 18px;
+    color: #000000;
+    font-size: 14px;
+    margin-top: 32px;
+    z-index: 2;
+}
+
+.social-media-list-div-span3 {
+    float: right;
+    width: 70px;
+    height: 18px;
+    color: #000000;
+    font-size: 14px;
+    margin-top: 7px;
+}
+
+.social-media-list-a-img1 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    left: 210px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img1 {
+    display: block;
+    top: -90px;
+}
+
+.social-media-list-a-img2 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    left: 385px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img2 {
+    display: block;
+    top: -90px;
+}
+
+.social-media-list-a-img3 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    left: 555px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img3 {
+    display: block;
+    top: -90px;
+}
+
+.social-media-list-a-img4 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    left: 725px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img4 {
+    display: block;
+    top: -90px;
+}
+
+.social-media-list-a-img5 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    left: 895px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img5 {
+    display: block;
+    top: -90px;
+}
+
+.social-media-list-a-img6 {
+    height: 98px;
+    width: 98px;
+    position: absolute;
+    right: 35px;
+    top: 12px;
+    transition: all 0.8s;
+    z-index: -1;
+}
+
+.social-media-list li:hover .social-media-list-a-img6 {
+    display: block;
+    top: -90px;
+}
+
+.Partner {
+    width: 1200px;
+    height: 305px;
+    margin-top: 20px;
+}
+
+.Partner h3 {
+    width: 1200px;
+    height: 40px;
+    border-bottom: 1px solid #D5D5D5;
+    text-align: center;
+    font-size: 14px;
+    line-height: 40px;
+    font-weight: 400;
+}
+
+.Partner-a-all {
+    width: 1200px;
+    height: 200px;
+}
+
+.Partner-a-all a {
+    float: left;
+    width: 110px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Partner-a-all a img {
+    width: 110px;
+    height: 60px;
+}
+
+.Partner-p {
+    width: 1200px;
+    height: 64px;
+    padding: 20px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 64px;
+}
+
+.Partner-p-span1 {
+    float: left;
+    margin-left: 20px;
+}
+
+.Partner-p-span2 {
+    float: left;
+    margin-left: 20px;
+}
+
+.Partner-p-span3 {
+    float: left;
+    margin-left: 20px;
+}
+
+.NBA-history {
+    margin-top: 20px;
+    width: 100%;
+    height: 250px;
+    background-image: url(./NBA官网图片2/footer-bg.png);
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 100% 250px;
+}
+
+.NBA-history-all {
+    width: 1200px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: #55FF00;
+}
+
+.NBA-history-one {
+    float: left;
+    width: 210px;
+    height: 250px;
+}
+
+.NBA-history-one span {
+    height: 65px;
+    line-height: 65px;
+    color: #fff;
+    font-size: 18px;
+    display: block;
+}
+
+.NBA-history-one a {
+    margin-bottom: 7px;
+    color: #fff;
+    font-size: 10px;
+    display: block;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.NBA-history {
+    /* width: 1903px; */
+    background-color: #000;
+}
